@@ -1,0 +1,42 @@
+Introduction - Shikari 
+Acknowedledgment - Shikari 
+Quick Start guide - Nilhan 
+Project scope : Citizens - mujeeb 
+Bureau - Disini 
+Foreign Companies - dewni 
+Context Diagram - dilhani
+Use case - dilhani 
+class diagram - dilhani 
+Dfd Lv 0 , Lv 01 - dilhani 
+Api Documentation : (Everybody) 
+•	POST 	/citizens
+Citizens and officers can register themselves with details including a national ID, name, age, address, current location (latitude and longitude), profession, email, affiliation, password, etc.
+•	PUT	/citizens/:nid
+Job seekers should be able to update their qualifications and upload certificates.
+•	GET	/citizens/:nid
+Officers should be able to access any citizen’s information by their national id
+•	PUT	/citizens/:nid
+Officers should be able to verify the information
+•	GET	/citizens/find(:qualifications)
+Company officers should be able to find candidates based on qualifications
+•	DELETE	/citizens/:nid
+The SLBFE staff can deactivate an individual’s account if the citizen is deceased.
+•	GET	/citizens/:nid/contacts
+The SLBFE staff should be able to collect information about contacts of any citizen.
+Code efficency 
+Json requests and responses - ask 
+XML Requests and responses - ask 
+Tools and technologies - disini 
+PhpMyAdmin - dewni 
+PHP - mujeeb 
+Laravel - shikari 
+XML - nilhan 
+JSON - disini 
+
+
+Client website features: add ss and small descriptions. 
+Client mobile application: ""
+Features in api admin: " "
+Individual contributions:(Everybody).
+Appendix:
+Controller scripts: add screen shots. 
