@@ -2,12 +2,12 @@ Introduction - Shikari
 Acknowedledgment - Shikari 
 Quick Start guide - Nilhan 
 Project scope : Citizens - mujeeb 
-Bureau - Disini 
-Foreign Companies - dewni 
-Context Diagram - dilhani
-Use case - dilhani 
-class diagram - dilhani 
-Dfd Lv 0 , Lv 01 - dilhani 
+Bureau - Disini - done 
+Foreign Companies - dewni - done 
+Context Diagram - dilhani - done
+Use case - dilhani - done 
+class diagram - dilhani - done 
+Dfd Lv 0 , Lv 01 - dilhani -done 
 Api Documentation : (Everybody) 
 •	POST 	/citizens
 Citizens and officers can register themselves with details including a national ID, name, age, address, current location (latitude and longitude), profession, email, affiliation, password, etc.
@@ -26,12 +26,12 @@ The SLBFE staff should be able to collect information about contacts of any citi
 Code efficency 
 Json requests and responses - ask 
 XML Requests and responses - ask 
-Tools and technologies - disini 
+Tools and technologies - disini - done 
 PhpMyAdmin - dewni 
 PHP - mujeeb 
 Laravel - shikari 
 XML - nilhan 
-JSON - disini 
+JSON - disini - done  
 
 
 Client website features: add ss and small descriptions. 
