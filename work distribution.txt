@@ -1,15 +1,15 @@
-Introduction - Shikari 
-Acknowedledgment - Shikari 
-Quick Start guide - Nilhan 
-Project scope : Citizens - mujeeb 
-Bureau - Disini - done 
-Foreign Companies - dewni - done 
-Context Diagram - dilhani - done
-Use case - dilhani - done 
-class diagram - dilhani - done 
-Dfd Lv 0 , Lv 01 - dilhani -done 
-Api Documentation : (Everybody) 
-•	POST 	/citizens
+Introduction - Shikari DONE
+Acknowedledgment - Shikari DONE
+Quick Start guide - Nilhan DONE
+Project scope : Citizens - mujeeb DONE
+Bureau - Disini DONE
+Foreign Companies - dewni DONE
+Context Diagram - dilhani DONE
+Use case - dilhani DONE
+class diagram - dilhani DONE
+Dfd Lv 0 , Lv 01 - dilhani DONE
+Api Documentation : (Everybody)  
+•	POST 	/citizens 
 Citizens and officers can register themselves with details including a national ID, name, age, address, current location (latitude and longitude), profession, email, affiliation, password, etc.
 •	PUT	/citizens/:nid
 Job seekers should be able to update their qualifications and upload certificates.
@@ -26,12 +26,12 @@ The SLBFE staff should be able to collect information about contacts of any citi
 Code efficency 
 Json requests and responses - ask 
 XML Requests and responses - ask 
-Tools and technologies - disini - done 
-PhpMyAdmin - dewni 
-PHP - mujeeb 
-Laravel - shikari 
+Tools and technologies - disini DONE
+PhpMyAdmin - dewni DONE
+PHP - mujeeb DONE
+Laravel - shikari DONE
 XML - nilhan 
-JSON - disini - done  
+JSON - disini DONE
 
 
 Client website features: add ss and small descriptions. 
